@@ -1,0 +1,13 @@
+header {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.herotext {
+  color: #6bac51;
+}
+
+.alugue {
+  color: #6bac51;
+}/*# sourceMappingURL=style.css.map */
